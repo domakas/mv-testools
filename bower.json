@@ -1,0 +1,25 @@
+{
+  "name": "mv-testools",
+  "version": "0.0.1",
+  "authors": [
+    "maksidom <domas.maksimas@visma.com>"
+  ],
+  "description": "Test tools for unit testing with angular and jasmine",
+  "main": "testools.js",
+  "keywords": [
+    "test",
+    "tools",
+    "angular",
+    "jasmine"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/domakas/mv-testools",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "test",
+    "tests"
+  ]
+}
